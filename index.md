@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MikhailPoiKutuzovL/Maus2.0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## YudachiPoi-LLS的欢迎界面
+### 联系方式
+- 手机：17786530930
+- QQ：1335842435
+- 邮箱：1335842435@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 基本信息，不要乱转哦
+ - 姓名：暂不透露哦
+ - 目前职业：学生（欢迎来WUT面基）
+ - 性别：都说了面基doge
+ - 年龄：今年才登dua郎呢
+ 
+#### 爱好（游戏向）
+##### 主要是战争和模拟养成类，不同爱好也可以很好相处的
+**ETS2**（欧洲卡车模拟2）
+**wotb**（坦克世界闪击战/坦克世界闪电战-亚服）
+**WOT**（坦克世界）
+**碧蓝航线**
+**DEEMO**（古树旋律）
+**arcaea**-低技术力
+**将军的荣耀3-钢铁命令**
+**欧陆战争6-1904**
+**欧陆战争4——拿破仑**
+**世界征服者4**
+**大征服者-罗马**
+**Among Us**（益智小游戏哈哈哈哈）
+**WT**（战争雷霆）不过目前还在1.3徘徊
+**原神**（被迫营业）
 
-### Markdown
+#### 爱好（生活向）
+**军模制作**（其实是纸模哒）（其实有一个素板埃米尔）
+**植物种植**（月季花吧买了房）
+**钓鱼打窝**（才没有空军呢）
+**卡林巴弹奏**（拇指琴算乐器吗哈哈哈哈哈）
+**地图狂热**（什么叫活地图啊-战术后仰）
+**土木老哥**（什么？轮机不是在海上打灰吗）
+**迫真军迷**（谁说军迷什么军种都要懂）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 低技术力创作，望看官海涵
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikhailPoiKutuzovL/Maus2.0/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 编辑日期2021/9/16 21:48
